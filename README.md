@@ -1,7 +1,5 @@
 # Hi, I'm @kaiwycik 👋
 
-Ph.D. student in Statistics & Operations Research at the University of North Carolina at Chapel Hill. M.A. in Statistics from Columbia University.
-
 My work sits at the intersection of statistical learning, data-driven scientific discoveries, and recently tensor methods — with a broad interest in machine learning research and its foundations.
 
 ---
@@ -25,8 +23,8 @@ My work sits at the intersection of statistical learning, data-driven scientific
 
 ## Links
 
-- 📄 [Recent Work](https://arxiv.org/abs/2606.00327)(#)
-- 💼 [[LinkedIn](https://www.linkedin.com/in/kai-wycik-194120210/)](#)
+- 📄 [Recent Work](https://arxiv.org/abs/2606.00327)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kai-wycik-194120210/)
 - ✉️ [kwycik@unc.edu](#)
 - ✉️ [kai.wycik@columbia.edu](#)
 
